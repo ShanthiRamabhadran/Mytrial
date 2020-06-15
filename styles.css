@@ -1,0 +1,30 @@
+h1{
+  color:blue;
+  text-align:center;
+}
+p{
+  color:red;
+
+}
+div{
+  background-color: green;
+  padding: 30px;
+  height:500px;
+  width: 50%;
+  font-family: Arial,sans-serif;
+  font-size: 24px;
+  font-weight: bolder;
+  border:10px dotted blue;
+}
+table{
+  border-collapse: collapse;
+  width: 20%;
+  text-align: center;
+}
+th, td {
+  border: 2px solid black;
+padding: 5px;
+}
+th{
+  background-color: lightgrey;
+}
